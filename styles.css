@@ -95,26 +95,26 @@
 }
 
 #feature1 {
-    background-image: url('../../assets/images/rectangle1.svg');
+    background-image: url('./assets/images/rectangle1.svg');
     width: 425px;
     height: 350px;
     margin-left: 105px;
 }
 #feature2 {
-    background-image: url('../../assets/images/rectangle2.svg');
+    background-image: url('./assets/images/rectangle2.svg');
     width: 425px;
     height: 350px;
     margin-left: 140px;
 
 }
 #feature3 {
-    background-image: url('../../assets/images/rectangle3.svg');
+    background-image: url('./assets/images/rectangle3.svg');
     width: 425px;
     height: 350px;
     margin-left: 105px;
 }
 #feature4 {
-    background-image: url('../../assets/images/rectangle4.svg');
+    background-image: url('./assets/images/rectangle4.svg');
     width: 425px;
     height: 350px;
     margin-left: 140px;
